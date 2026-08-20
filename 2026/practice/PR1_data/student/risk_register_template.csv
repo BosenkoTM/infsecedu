@@ -1,1 +1,0 @@
-﻿risk_id,asset,scenario_id,risk_scenario_summary,vulnerability,probability_before_1_5,impact_before_1_5,inherent_risk_pxI,existing_controls,proposed_controls,control_types,probability_after_1_5,impact_after_1_5,residual_risk_pxI,risk_owner,treatment_decision,justification

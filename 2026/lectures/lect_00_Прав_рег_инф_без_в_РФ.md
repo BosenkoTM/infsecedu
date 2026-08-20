@@ -532,7 +532,7 @@ flowchart TD
 
 ---
 
-# 13. Что особенно важно для педагога
+# Что особенно важно для педагога
 
 Педагог не обязан быть специалистом ФСТЭК или администратором безопасности.
 
@@ -550,7 +550,7 @@ flowchart TD
 
 ---
 
-# 14. Ответственность
+# Ответственность
 
 Нарушения законодательства в сфере информации и персональных данных могут повлечь различные виды ответственности в зависимости от состава нарушения:
 
@@ -565,7 +565,7 @@ flowchart TD
 
 ---
 
-# 15. Главное, что нужно запомнить
+# Главное, что нужно запомнить
 
 ```mermaid
 mindmap
@@ -603,7 +603,7 @@ mindmap
 
 ---
 
-# 16. Вопросы для самопроверки
+# Вопросы для самопроверки
 
 1. Почему информационная безопасность не сводится к техническим средствам?
 2. Какую роль играет Федеральный закон № 149-ФЗ?
@@ -618,19 +618,9 @@ mindmap
 
 ---
 
-# 17. Материалы курса СПбГУ на «Открытом образовании»
 
-Материалы ниже используются как дополнительная вводная основа для самостоятельного изучения:
 
-1. [Добро пожаловать!](https://apps.openedu.ru/learning/course/course-v1:spbu+INFOSEC_BASIC+self_paced_2023/block-v1:spbu+INFOSEC_BASIC+self_paced_2023+type@sequential+block@d2de4d9443c645f6b57b4c74788b8a81)
-2. [Законодательство в области защиты информации](https://apps.openedu.ru/learning/course/course-v1:spbu+INFOSEC_BASIC+self_paced_2023/block-v1:spbu+INFOSEC_BASIC+self_paced_2023+type@sequential+block@101c330205ce454c818b766a2dd8533a)
-3. [Постановления Правительства Российской Федерации в области информационной безопасности](https://apps.openedu.ru/learning/course/course-v1:spbu+INFOSEC_BASIC+self_paced_2023/block-v1:spbu+INFOSEC_BASIC+self_paced_2023+type@sequential+block@1ab2b6f9346044f5888c6b5d65b5860b)
-4. [Федеральные службы и информационная безопасность](https://apps.openedu.ru/learning/course/course-v1:spbu+INFOSEC_BASIC+self_paced_2023/block-v1:spbu+INFOSEC_BASIC+self_paced_2023+type@sequential+block@78f6ceed769042be908a19a6e9afc64d)
-5. [ГОСТы в сфере информационной безопасности](https://apps.openedu.ru/learning/course/course-v1:spbu+INFOSEC_BASIC+self_paced_2023/block-v1:spbu+INFOSEC_BASIC+self_paced_2023+type@sequential+block@1cdd1e094cb2485e9d75b118b424c026)
-
----
-
-# 18. Основные нормативные источники
+# Основные нормативные источники
 
 1. Федеральный закон от 27.07.2006 № 149-ФЗ «Об информации, информационных технологиях и о защите информации».
 2. Федеральный закон от 27.07.2006 № 152-ФЗ «О персональных данных».
